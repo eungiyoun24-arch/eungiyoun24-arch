@@ -1,4 +1,5 @@
 ### Eungi Youn
+Minimalist. Free thinker.
 
 ### Education
 M.S. in Mechanical Engineering | Focus: Control Systems  
