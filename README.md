@@ -1,16 +1,20 @@
 # Eungi Youn
 
-## Education
-- **M.S. in Mechanical Engineering** | Focus: Control Systems
-- **B.S. in Mechanical Engineering** | Minor: Computer Science
+```python
+class Profile:
+    def __init__(self):
+        self.education = {
+            "M.S.": "Mechanical Engineering (Control Systems)",
+            "B.S.": "Mechanical Engineering (CS Minor)"
+        }
+        self.tech_stack = {
+            "CAD": ["SolidWorks", "Fusion 360", "AutoCAD"],
+            "Code": ["Python", "C/C++", "SQL", "Firmware"],
+            "AI/ML": ["Fine-tuning", "Robot Manipulation", "Data Science"]
+        }
+        self.interests = ["BJJ", "Boxing", "MMA", "AI Optimization"]
+        self.languages = ["Korean", "Japanese", "English"]
 
-## Skills
-- **CAD:** SolidWorks, Fusion 360, AutoCAD
-- **Programming Languages:** Python, C, C++, SQL
-- **Languages:** Korean, Japanese, English
-- **Classes:** AI/ML, Data Science in Manufacturing, Control Systems, Robot Manipulation
-
-## Interests
-- Active practitioner of BJJ, Boxing, and MMA.
-- Deep diving into AI fine-tuning and model optimization for engineering applications.
-- Developing custom circuits and firmware for integrated hardware-software projects.
+    def contact(self):
+        # 연락처나 링크드인 주소를 이곳에 추가해보세요.
+        return "[https://linkedin.com/in/your-id](https://linkedin.com/in/your-id)"
