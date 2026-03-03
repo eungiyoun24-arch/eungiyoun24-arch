@@ -1,4 +1,7 @@
 # Eungi (David) Youn
+
+---
+
 ## Technical Stack
 
 ### Engineering & Hardware
