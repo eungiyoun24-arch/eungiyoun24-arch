@@ -1,4 +1,4 @@
-# Eungi (David) Youn
+# Eungi Youn
 
 ## Education
 - **M.S. in Mechanical Engineering** | Focus: Control Systems
