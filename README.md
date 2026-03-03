@@ -1,16 +1,25 @@
-## Hi there 👋
+# Eungi (David) Youn
+## Technical Stack
 
-<!--
-**eungiyoun24-arch/eungiyoun24-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engineering & Hardware
+- **CAD/CAE:** SolidWorks, Fusion 360, AutoCAD
+- **Specialty:** Control Systems, Electronics, Embedded Systems
 
-Here are some ideas to get you started:
+### Programming & AI
+- **Languages:** Python, C, C++, SQL
+- **Interests:** LLM Fine-tuning, Domain-specific AI Models
+- 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- **M.S. in Mechanical Engineering** | Focus: Control Systems
+- **B.S. in Mechanical Engineering** | Minor: Computer Science
+- 
+---
+
+## Interests
+- Active practitioner of BJJ, Boxing, and MMA.
+- Deep diving into AI fine-tuning and model optimization for engineering applications.
+- Developing custom circuits and firmware for integrated hardware-software projects.
+
+---
