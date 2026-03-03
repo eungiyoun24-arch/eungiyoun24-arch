@@ -1,4 +1,4 @@
-Minimalist. Free thinker.
+Minimalist. Freethinker.
 
 #### Education
 M.S. in Mechanical Engineering | Focus: Control Systems  
