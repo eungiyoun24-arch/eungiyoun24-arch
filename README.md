@@ -1,3 +1,5 @@
+This is Eungi Youn's Portfolio
+
 #### Education
 M.S. in Mechanical Engineering | Focus: Control Systems  
 B.S. in Mechanical Engineering | Minor: Computer Science  
