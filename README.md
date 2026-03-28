@@ -1,5 +1,3 @@
-Minimalist. Freethinker.
-
 #### Education
 M.S. in Mechanical Engineering | Focus: Control Systems  
 B.S. in Mechanical Engineering | Minor: Computer Science  
